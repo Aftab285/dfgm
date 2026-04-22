@@ -108,7 +108,7 @@ function App() {
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-3">
               <div className="relative">
-                <a href="https://imgbb.com/"><img src="https://i.ibb.co/Fqz5Nndh/Untitled-design-9.png" alt="Untitled design (9)" border="0" className="h-10 w-auto object-contain" /></a>
+                <a href="https://imgbb.com/"><img src="https://i.ibb.co/Fqz5Nndh/Untitled-design-9.png" alt="Untitled design (9)" className="h-10 w-auto object-contain" /></a>
               </div>
               <span className="text-xl font-bold text-white">MoondogAI</span>
             </div>
@@ -495,7 +495,7 @@ function App() {
               <div className="flex items-center justify-between mb-6">
                 <div className="flex items-center space-x-4">
                   <div className="relative">
-                    <a href="https://imgbb.com/"><img src="https://i.ibb.co/Fqz5Nndh/Untitled-design-9.png" alt="Untitled design (9)" border="0" className="h-10 w-auto object-contain" /></a>
+                    <a href="https://imgbb.com/"><img src="https://i.ibb.co/Fqz5Nndh/Untitled-design-9.png" alt="Untitled design (9)" className="h-10 w-auto object-contain" /></a>
                   </div>
                   <span className="text-white font-bold text-lg">MoondogAI</span>
                 </div>
@@ -609,7 +609,7 @@ function App() {
             <div className="md:col-span-2">
               <div className="flex items-center space-x-3 mb-4">
                 <div className="relative">
-                  <a href="https://imgbb.com/"><img src="https://i.ibb.co/Fqz5Nndh/Untitled-design-9.png" alt="Untitled design (9)" border="0" className="h-10 w-auto object-contain" /></a>
+                  <a href="https://imgbb.com/"><img src="https://i.ibb.co/Fqz5Nndh/Untitled-design-9.png" alt="Untitled design (9)" className="h-10 w-auto object-contain" /></a>
                 </div>
                 <span className="text-xl font-bold text-white">MoondogAI</span>
               </div>
